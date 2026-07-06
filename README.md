@@ -42,10 +42,10 @@ To date, I have contributed to **1,800+ Knowledge Base articles**.
 | Document | Description | Status |
 |-----------|-------------|--------|
 | Knowledge Base | OAuth Authentication Failure | ✅ |
-| Installation Guide | Microsoft 365 Backup | 🚧 |
-| User Guide | Getting Started | 🚧 |
-| Troubleshooting Guide | Backup Issues | 🚧 |
-| API Quick Start | Microsoft Graph API | 🚧 |
+| Installation Guide | Microsoft 365 Backup | ✅ |
+| User Guide | Getting Started | ✅ |
+| Troubleshooting Guide | Backup Issues | ✅ |
+| API Quick Start | Microsoft Graph API | ✅ |
 
 ---
 
